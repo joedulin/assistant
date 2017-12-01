@@ -1,0 +1,19 @@
+{
+  "name": "assistant",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "google-assistant": "^0.1.13",
+    "growl": "^1.10.3",
+    "iohook": "^0.1.9",
+    "libnotify": "^1.0.4",
+    "node-record-lpcm16": "^0.3.0",
+    "speaker": "^0.4.0"
+  }
+}
